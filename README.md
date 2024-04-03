@@ -1,35 +1,6 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+# Luis Sebastian Sorribes
 
-Bienvenidos a
-# Programación con objetos I
+Hola me llamo Sebastian Sorribes, soy de Rosario y este es mi segundo aÃ±o en esta carrera y universidad. El aÃ±o pasado pude aprovar todas las materias que curse y trate de participar en la mayor cantidad de eventos que pude.
+Esta es mi tercera carrera. En 2012 curse, por solo un semestre, Lic. en Fisica en la Universidad Nacional de Rosario y en 2015, hasta 2019, curse Lic. en Quimica, en la misma univesidad, hasta que comprendi que no queria estar en los laboratorios.
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
-
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
-
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión 1 **turno noche**: Martes 18 a 22hs y Sábado 10 a 12hs.
-* Horario comisión 2 **turno mañana**: Miércoles 8 a 12hs y Sábado 10 a 12hs. 
-* Este cuatrimestre los profesores somos Gerardo González Tulian, Lucas Spigariol, Cristian Ciarallo y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappanni, Manuel Nuñez y Lucian Coniglio.
-
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/13rFU2mObqdFF_2Ocimey_oHJ0Ldv-Gx0S1N4cfHKO4Q/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
-
-
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+Me encantan los videojuegos desde pequeÃ±o. Desde que vi a mi papa jugarlos hasta el dia de hoy me parecen una diversion maravillosa. Para mi, cada juego nuevo es una nueva aventura y una nueva historia que disfruto descubrir y experimentar. Fue esa pasion lo que me llevo a anotarme a esta carrera de desarrollo de videojuegos y despues de haber estado un aÃ±o aprendiendo, creo que fue la mejor decision que pude tomar para mi futuro profesional.
